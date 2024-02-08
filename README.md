@@ -1,4 +1,4 @@
-Project Title: LavaJumper - A Lava and Water Jumping Tile Game
+# Project Title: LavaJumper - A Lava and Water Jumping Tile Game
 
 Description:
 LavaJumper is an exciting 2D tile-based game where players navigate through a perilous landscape of randomly generated tiles, avoiding deadly lava while leaping from one platform to another. As players progress, they must skillfully time their jumps to avoid falling into the fiery depths below. Upon completing each level, players face the challenge of navigating rain-soaked platforms to reach the next stage, with new tiles falling from the sky onto the molten lava.
@@ -27,6 +27,4 @@ Use the designated controls to jump between platforms and navigate the game worl
 Enjoy the challenge of conquering each level and mastering the art of lava jumping!
 Contributing:
 Contributions to the project are welcome! Whether it's bug fixes, feature enhancements, or additional content, feel free to fork the repository, make your changes, and submit a pull request.
-
-# Nand2tetris-Game
 This project is developed as part of the "Elements of Computing Systems" course at Amrita School of Engineering, Bangalore.
