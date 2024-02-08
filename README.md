@@ -1,5 +1,5 @@
 # Project Title: LavaJumper - A Lava and Water Jumping Tile Game
-Authors - Rishi Dhaneswar , Chankya Reddy, Sai Rohith, Manikanta, Chinvitha
+Authors - Rishi Dhaneswar , Chanakya Reddy, Sai Rohith, Manikanta, Chinvitha
 
 
 Description:
