@@ -1,4 +1,4 @@
-# Project Title: Square vs Blob
+# Project Title: Tiny Square Tumble - Blob Binge
 Authors - Rishi Dhaneswar
 
 
