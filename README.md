@@ -18,3 +18,5 @@ Features
 15 Progressive Touches: The square reduces in size 15 times until it matches the blob's size.
 Snake-like Movement: The square moves continuously in a direction until you change it, like in the snake game.
 10 Difficulty Levels: The game offers 10 levels of increasing difficulty.
+![eoc](https://github.com/user-attachments/assets/542a2670-f8a4-4757-a8e0-cc0cbc81ce55)
+![Screenshot (372)](https://github.com/user-attachments/assets/bdeed1d4-761e-4843-b244-d51404fc7261)
