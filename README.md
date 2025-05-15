@@ -20,3 +20,18 @@ Snake-like Movement: The square moves continuously in a direction until you chan
 10 Difficulty Levels: The game offers 10 levels of increasing difficulty.
 ![eoc](https://github.com/user-attachments/assets/542a2670-f8a4-4757-a8e0-cc0cbc81ce55)
 ![Screenshot (372)](https://github.com/user-attachments/assets/bdeed1d4-761e-4843-b244-d51404fc7261)
+
+## License Agreement
+
+Copyright © 2025  
+All rights reserved. Maddi Rishi Dhaneswar
+
+This software and its associated documentation are proprietary and confidential.  
+Unauthorized use, reproduction, distribution, or modification of any part of this codebase is strictly prohibited without explicit written permission from the owner (Maddi Rishi Dhaneswar).
+
+This repository is shared for academic evaluation and publication purposes only.
+
+If you wish to collaborate, request access, or seek clarification, please contact:  
+maddi.rishi2468@gmail.com
+
+No license is granted by implication, estoppel, or otherwise.
